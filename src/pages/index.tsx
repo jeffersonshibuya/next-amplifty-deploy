@@ -13,7 +13,9 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1>Production Site</h1>
+        <h1>Development Site</h1>
+
+        <h2>Amplify - NextJS - Dev branch</h2>
       </main>
 
       <footer className={styles.footer}>
